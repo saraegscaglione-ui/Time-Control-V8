@@ -1,0 +1,9 @@
+{
+  "name": "time-control-v8",
+  "displayName": "Time Control V8",
+  "author": "Original by sk7725, v8 fix by SaraOfTheEnd",
+  "description": "Adds simple in-game time speed controls for Mindustry v8. Intended for single-player/sandbox use. Not meant for multiplayer clients.",
+  "version": "1.0.0",
+  "minGameVersion": 158,
+  "hidden": false
+}
